@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ImageBackgroundTesting</string>
+    <string-array name="warcraftRaces">
+        <item>human</item>
+        <item>orc</item>
+        <item>tauren</item>
+        <item>undead</item>
+        <item>blood elf</item>
+        <item>dranei</item>
+        <item>night elf</item>
+    </string-array>
+    <string-array name="warcraftClasses">
+        <item>warrior</item>
+        <item>paladin</item>
+        <item>mage</item>
+        <item>shaman</item>
+        <item>hunter</item>
+        <item>warlock</item>
+    </string-array>
+
+    <string-array name="GW2Races">
+        <item>human</item>
+        <item>asura</item>
+        <item>charr</item>
+        <item>sylvari</item>
+    </string-array>
+    <string-array name="GW2Classes">
+        <item>warrior</item>
+        <item>guardian</item>
+        <item>mesmer</item>
+        <item>engineer</item>
+        <item>elementalist</item>
+    </string-array>
+
+    <string-array name="LotroRaces">
+        <item>race of man</item>
+        <item>dwarf</item>
+        <item>elf</item>
+    </string-array>
+    <string-array name="LotroClasses">
+        <item>burglar</item>
+        <item>captain</item>
+        <item>hunter</item>
+    </string-array>
+</resources>
